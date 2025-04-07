@@ -1,0 +1,33 @@
+# ASP.NET Core / Visual Studio / VS Code .gitignore
+
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Dotnet stuff
+*.dbmdl
+*.dbproj.schemaview
+
+# Entity Framework
+Migrations/
+
+# Others
+*.swp
+*.DS_Store
+Thumbs.db
+
+# Secrets (si alguna vez usas secretos locales)
+secrets.json
