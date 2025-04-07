@@ -274,3 +274,4 @@ C:\Users\PC\Downloads\CrudMvc-main\obj\Debug\net8.0\refint\MiCrudMVC.dll
 C:\Users\PC\Downloads\CrudMvc-main\obj\Debug\net8.0\MiCrudMVC.pdb
 C:\Users\PC\Downloads\CrudMvc-main\obj\Debug\net8.0\MiCrudMVC.genruntimeconfig.cache
 C:\Users\PC\Downloads\CrudMvc-main\obj\Debug\net8.0\ref\MiCrudMVC.dll
+C:\Users\PC\Downloads\CrudMvc-main\obj\Debug\net8.0\MiCrudMVC.sourcelink.json
